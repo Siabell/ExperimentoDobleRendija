@@ -34,12 +34,23 @@ La explicación posible es que los electrones individuales, separados en el tiem
 ## Simulacion
 Mediante la librearia de numeros copmplejos se ha realizado una simulacion del experimento.
 * Codigo de la simulacion
+<br>
 ![Codigo](images/Code.PNG)
+<br>
+
 * Matriz luego de 2 clicks de tiempo
+<br>
 ![Matriz](images/matriz.PNG)
+<br>
+
 * Vector resultante
+<br>
+
 ![Vector](images/vector.PNG)   
+<br>
+
 * Grafica resultante
+<br>
 ![Grafica](images/Grafica.PNG) 
 
 
