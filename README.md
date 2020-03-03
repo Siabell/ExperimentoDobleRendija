@@ -9,11 +9,27 @@ En el experimento de la doble rendija, un láser emite luz que se dirige a dos r
 
 ## Experimento
 
-Se creó un modelo del experiemnto con un láser atado a una base para mantenerlo firme, una cartiluna con dos rendijas por las que atraviesa la luz del láser y un fondo negro que permite ver el patrón que se crea cuando la luz atraviesa las rejillas.
+### Materiales
+* Laser sujetado a una base
+* Rendija en hoja de papel
+* Caja arreglada para una mejor percepcion de la luz
+ ![Materiales](images/materiales.jpg)
+
+### Procedimiento
+Primero se realizo el corte para la rendija en la hoja de papel y se sujetaron tanto el laser como la rendija sus respectivas bases.
+![Bases](images/bases.jpg)
+
+<br>
+
+Posteriormente se ajusto la caja negra una distancia de aproximadamente 1 metro y se disparo el laser a travez de la rendija lo que permitio evidenciar el patron de interferencia de la luz.
+
 
 * Modelo del experimento -video
 
 [![Emodelo General](images/modeloGeneral.jpeg)](https://youtu.be/q19X2xPSG70) 
+
+
+
 
 ### Resultado obtenido: 
 
