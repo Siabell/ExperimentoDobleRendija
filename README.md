@@ -31,6 +31,18 @@ Ampliando la idea del experimento, es posible construir un experimento en el que
 
 La explicación posible es que los electrones individuales, separados en el tiempo, pasan por ambas ranuras. Lo que significa que el electron interfiere con sus propias historias de otros universos. Esta imposibilidad física es la manera de explicar el patrón de interferencia.
 
+## Simulacion
+Mediante la librearia de numeros copmplejos se ha realizado una simulacion del experimento.
+* Codigo de la simulacion
+![Codigo](images/Code.PNG)
+* Matriz luego de 2 clicks de tiempo
+![Matriz](images/matriz.PNG)
+* Vector resultante
+![Vector](images/vector.PNG)   
+* Grafica resultante
+![Grafica](images/Grafica.PNG) 
+
+
 ## Creadores
 
 * Karen Paola Duran Vivas
