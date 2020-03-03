@@ -52,7 +52,8 @@ Mediante la librearia de numeros copmplejos se ha realizado una simulacion del e
 
 * Grafo que describe la simulación
 <br>
-![Codigo](images/grafo.PNG)
+
+![grafo](images/grafo.PNG)
 <br>
 
 * Codigo de la simulación
