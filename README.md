@@ -11,13 +11,16 @@ En el experimento de la doble rendija, un láser emite luz que se dirige a dos r
 
 Se creó un modelo del experiemnto con un láser atado a una base para mantenerlo firme, una cartiluna con dos rendijas por las que atraviesa la luz del láser y un fondo negro que permite ver el patrón que se crea cuando la luz atraviesa las rejillas.
 
-![modelo General](images/modeloGeneral.jpeg)
+* Modelo del experimento -video
 
-El patrón que se generó cuando la luz atraviesa la rendija.
+[![Emodelo General](images/modeloGeneral.jpeg)](https://youtu.be/q19X2xPSG70) 
+
+### Resultado obtenido: 
+
+Se genero en el fondo el siguiente patrón cuando la luz atraviesa la rendija.
 
 ![patron](images/espectro.jpeg)
 
-[![Experimento de la doble Rendija](https://youtu.be/q19X2xPSG70/0.jpg)](https://youtu.be/q19X2xPSG70) - video
 
 ##  Explicación
 
