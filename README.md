@@ -5,7 +5,7 @@
 
 En el experimento de la doble rendija, un láser emite luz que se dirige a dos rendijas paralelas, entonces se observará un pronunciado patrón de interferencia similar a una franja.En donde se muestran una serie de bandas claras y oscuras, más pronunciadas cuando las ranuras se hacen más estrechas.
 
-![Experiemnto](images/experiment.jpg)
+![Experiemnto](images/experiment.PNG)
 
 ## Experimento
 
